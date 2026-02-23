@@ -10,6 +10,29 @@ By building this project in Excel, the analysis also demonstrates how a widely u
 The emphasis is not just on visualization, but on **business-oriented analysis**, metric integrity, and professional dashboard design.
 
 ---
+## 🔄 Why This Analysis Was Done in Both Excel and Python/SQL
+
+This HR attrition analysis was intentionally implemented using **both Microsoft Excel and Python with SQL** to demonstrate **analytical flexibility across different business and technical environments**.
+
+The **Excel version** of this project emphasizes:
+- Interactive, executive-ready dashboards
+- KPI integrity using Power Pivot and DAX
+- Business-friendly exploration through slicers and pivot-based analysis
+
+📊 **Python & SQL Analytics Project:**  
+[HR Analytics – Employee Attrition Analysis (Python & SQL)](https://github.com/Naga-Vikram/HR-Analytics-Employee-Attrition)
+
+The **Python & SQL implementation** focuses on:
+- Working with a **cloud-hosted PostgreSQL database (Supabase)**
+- Computing KPIs using **server-side SQL queries**
+- Building a scalable, production-style analytics pipeline
+
+By solving the same business problem using both tools, this project highlights:
+- 🧠 Strong analytical fundamentals independent of tools  
+- 🔄 Ability to translate business logic across platforms  
+- 🏢 Readiness to work in both **business reporting** (Excel) and **engineering-driven analytics** (Python/SQL) contexts  
+
+Together, these implementations present a **comprehensive view of how HR analytics can be delivered at different levels of organizational maturity**.
 
 ## 📁 Dashboard File
 - **File Name:** `HR_Attrition_Dashboard.xlsx`
